@@ -7,7 +7,7 @@
  *
  * */
 
-int maisn() {
+int mais() {
     double r = 0;
     double c = 0;
     const double pi = 3.141592;
